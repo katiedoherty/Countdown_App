@@ -1,9 +1,9 @@
 # Countdown_App
 ## Quick Intro to what the App deos.
-This is a mobile friendly application that imitates the show Countdown. You are given nine letters and must submit a word within the amount of time given.
+This is a mobile friendly application built with react that imitates the show Countdown. You are given nine letters and must submit a word within the amount of time given. Once submitted you are given told how many pionts you did or did not earn. If you run out of time you will no longer be able to submit and anser and you will be informed that time has run out.
 
 
-## How do I open the app
+## How do I open the app?
 To view app in gitpod type 'npm start' into the terminal window and press the open in browser button that pops up in the left hand corner.
 
 # Team Shannon - Katie Doherty, James Greer & Emma Martin
