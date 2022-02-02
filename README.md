@@ -2,6 +2,8 @@
 ## Quick Intro to what the App deos.
 This is a mobile friendly application that imitates the show Countdown. You are given nine letters and must submit a word within the amount of time given.
 
+
+## How do I open the app
 To view app in gitpod type 'npm start' into the terminal window and press the open in browser button that pops up in the left hand corner.
 
 # Team Shannon - Katie Doherty, James Greer & Emma Martin
